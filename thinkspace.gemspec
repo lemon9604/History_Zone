@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
 	spec.email         = ["lemon199604@gmail.com"]
 
 	spec.summary       = "The History Study Space of Lydia"
-	spec.homepage      = "https://lemon9604.github.io/"
+	spec.homepage      = "https://lemon9604.github.io/History_Zone/"
 	spec.license       = "MIT"
 
 	spec.metadata["plugin_type"] = "theme"

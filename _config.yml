@@ -3,7 +3,7 @@ title_left    : "History"
 title_right   : "Zone" # default: ""
 description   : "History blog for Lydia self-study"
 keywords      : "Lydia, history, blog"
-url           : https://lemon9604.github.io # site url
+url           : https://lemon9604.github.io/History_Zone/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
