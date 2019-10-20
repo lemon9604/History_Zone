@@ -69,7 +69,7 @@ keywords: "Skinner, 整理笔记"
 
 4. 模型图：
 
-    ![六边形理论模型图](https://raw.githubusercontent.com/lemon9604/lemon9604.github.io/master/_posts/images/%E5%85%AD%E8%BE%B9%E5%BD%A2%E7%90%86%E8%AE%BA%E5%9F%BA%E6%9C%AC%E6%A8%A1%E5%9E%8B.png)
+    ![六边形理论模型图](_posts/images/六边形理论基本模型.png)
 
 5. A模型：每个基层集镇依赖于两个高层次集镇
 
